@@ -1,1 +1,2 @@
-import NAYAN
+from NAYAN import Subscraption
+Subscraption()
